@@ -11,4 +11,3 @@ A project with seven other students in the course "Project in Information and Co
 
 <a href="https://infopro-4ef82.web.app/">Website link<a/>
 
-<a href="https://gits-15.sys.kth.se/gustavak/BARYON2">Repository link<a/>

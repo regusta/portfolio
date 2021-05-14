@@ -6,9 +6,9 @@ On this page you will find projects I complete during the course of my studies a
 ## Projects
 Here you will find links to my projects.
 
-#### Argos- A decision support website for the general public
+#### Argos - A decision support website for the general public
 A project with seven other students in the course "Project in Information and Communication Technology". The website collects data from different open API:s in order to give the user a overview in one place, customizable to the user's needs and preferences. 
 
-Website link:  https://infopro-4ef82.web.app/
+Website link:  <a> https://infopro-4ef82.web.app/ <a/>
 
-Repository link: https://gits-15.sys.kth.se/gustavak/BARYON2
+Repository link: <a> https://gits-15.sys.kth.se/gustavak/BARYON2 <a/>
